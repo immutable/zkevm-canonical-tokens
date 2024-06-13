@@ -1,0 +1,83 @@
+[
+    {
+        "chainId": "13371",
+        "address": "native",
+        "name": "IMX",
+        "symbol": "IMX",
+        "decimals": 18,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/imx.svg",
+        "coingeckoId": "immutable-x"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x52A6c53869Ce09a731CD772f245b97A4401d3348",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/eth.svg",
+        "coingeckoId": "ethereum"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x6de8aCC0D406837030CE4dd28e7c08C5a96a30d2",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/0x6de8acc0d406837030ce4dd28e7c08c5a96a30d2.svg",
+        "coingeckoId": "usdc"
+    },
+    {
+        "chainId": "13371",
+        "address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
+        "name": "GOG",
+        "symbol": "GOG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/17362/standard/V2QDNoLg_400x400.jpg",
+        "coingeckoId": "guild-of-guardians"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x0bf52740F5BC21998b3FA8210Ebac159c5803f95",
+        "name": "JANUS",
+        "symbol": "JAN",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/35045/standard/janus_token.jpeg",
+        "coingeckoId": "storm-warfare"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x2A644D2d996820ce5Ca4256cc68E53F4DE29B444",
+        "name": "METAL",
+        "symbol": "METAL",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/24376/standard/metal.png",
+        "coingeckoId": "badmad-robots"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x9f6884b94c36cb32519440F0497E12a8F0dE7130",
+        "name": "MEE Governance Token",
+        "symbol": "MEE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/27588/standard/MEE_200x200.png",
+        "coingeckoId": "medieval-empires"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x579c8D3b6C8Be1f57e2699D8Ff7c2D064A472fBC",
+        "name": "Wasder",
+        "symbol": "WAS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/15374/standard/wasderBoxedLogoWhite-200x200.png",
+        "coingeckoId": "wasder"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
+        "name": "Wrapped IMX",
+        "symbol": "WIMX",
+        "decimals": 18,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/imx.svg",
+        "coingeckoId": "immutable-x"
+    }
+]
