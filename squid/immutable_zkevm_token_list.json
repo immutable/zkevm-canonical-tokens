@@ -28,6 +28,15 @@
     },
     {
         "chainId": "13371",
+        "address": "0x68bcc7F1190AF20e7b572BCfb431c3Ac10A936Ab",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.svg",
+        "coingeckoId": "tether"
+    },
+    {
+        "chainId": "13371",
         "address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
         "name": "GOG",
         "symbol": "GOG",
