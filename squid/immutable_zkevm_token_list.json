@@ -97,5 +97,14 @@
         "decimals": 18,
         "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/0xc9e503562d0db0a2629288a5d3b1c94ea7741869.svg",
         "coingeckoId": "metalcore"
+    },
+    {
+        "chainId": "1",
+        "address": "0xc9E503562d0Db0A2629288a5D3b1c94Ea7741869",
+        "name": "MetalCore",
+        "symbol": "MCG",
+        "decimals": 18,
+        "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/0xc9e503562d0db0a2629288a5d3b1c94ea7741869.svg",
+        "coingeckoId": "metalcore"
     }
 ]
