@@ -106,5 +106,23 @@
         "decimals": 18,
         "logoURI": "https://checkout-cdn.immutable.com/v1/blob/img/tokens/0xc9e503562d0db0a2629288a5d3b1c94ea7741869.svg",
         "coingeckoId": "metalcore"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x699797abcdc2e20165fE4bAC5efbAa652490E6E2",
+        "name": "Vendetta",
+        "symbol": "VDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/35185/large/logo_200_blk.png",
+        "coingeckoId": "vendetta"
+    },
+    {
+        "chainId": "137",
+        "address": "0x765af38a6e8fdcb1efef8a3dd2213efd3090b00f",
+        "name": "Vendetta",
+        "symbol": "VDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/35185/large/logo_200_blk.png",
+        "coingeckoId": "vendetta"
     }
 ]
