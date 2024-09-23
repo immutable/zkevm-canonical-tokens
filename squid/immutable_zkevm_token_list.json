@@ -124,5 +124,23 @@
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/35185/large/logo_200_blk.png",
         "coingeckoId": "vendetta"
+    },
+    {
+        "chainId": "1",
+        "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
+        "name": "Nifty League",
+        "symbol": "NFTL",
+        "decimals": 18,
+        "logoURI": "https://niftyleague.com/img/logo/NFTL.png",
+        "coingeckoId": "nifty-league"
+    },
+    {
+        "chainId": "13371",
+        "address": "0xb0d7e9ff5fb8e739c4990f7920d8047acfae4884",
+        "name": "Nifty League",
+        "symbol": "NFTL",
+        "decimals": 18,
+        "logoURI": "https://niftyleague.com/img/logo/NFTL.png",
+        "coingeckoId": "nifty-league"
     }
 ]
