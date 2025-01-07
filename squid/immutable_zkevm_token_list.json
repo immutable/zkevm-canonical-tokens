@@ -151,5 +151,23 @@
         "decimals": 8,
         "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
         "coingeckoId": "wrapped-bitcoin"
+    },
+    {
+        "chainId": "1",
+        "address": "0x104e363ac6521e55a24ae724855362acec3febe6",
+        "name": "Arena of Faith",
+        "symbol": "ACP",
+        "decimals": 18,
+        "logoURI": "https://ipfs.aof.global/ipfs/bafkreigdstunxinj42cwoup2gnokripinqyop6qkscfovyawvwtjlsrci4",
+        "coingeckoId": ""
+    },
+    {
+        "chainId": "13371",
+        "address": "0x30071c0091Cfc893bCfCF53B5457055Eb05249b3",
+        "name": "Arena of Faith",
+        "symbol": "ACP",
+        "decimals": 18,
+        "logoURI": "https://ipfs.aof.global/ipfs/bafkreigdstunxinj42cwoup2gnokripinqyop6qkscfovyawvwtjlsrci4",
+        "coingeckoId": ""
     }
 ]
