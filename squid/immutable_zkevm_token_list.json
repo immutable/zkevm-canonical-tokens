@@ -169,5 +169,14 @@
         "decimals": 18,
         "logoURI": "https://ipfs.aof.global/ipfs/bafkreigdstunxinj42cwoup2gnokripinqyop6qkscfovyawvwtjlsrci4",
         "coingeckoId": ""
+    },
+    {
+        "chainId": "13371",
+        "address": "0x5838241bcabb660f999264bcda571fc59931d17e",
+        "name": "IMR Token",
+        "symbol": "IMR",
+        "decimals": 18,
+        "logoURI": "https://rose-ministerial-termite-701.mypinata.cloud/ipfs/Qmd3oT99HypRHaPfiY6JWokxADR5TzR1stgonFy1rMZAUy",
+        "coingeckoId": ""
     }
 ]
