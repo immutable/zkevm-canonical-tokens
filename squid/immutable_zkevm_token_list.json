@@ -173,10 +173,10 @@
     {
         "chainId": "13371",
         "address": "0x5838241bcabb660f999264bcda571fc59931d17e",
-        "name": "Immutable Runner Token",
+        "name": "IMR Token",
         "symbol": "IMR",
         "decimals": 18,
-        "logoURI": "https://rose-ministerial-termite-701.mypinata.cloud/ipfs/QmSkMiN42SRN9fVWTQrx35uYmFEsXVpz1fLuVEzVeyTQY2",
+        "logoURI": "https://rose-ministerial-termite-701.mypinata.cloud/ipfs/Qmd3oT99HypRHaPfiY6JWokxADR5TzR1stgonFy1rMZAUy",
         "coingeckoId": ""
     }
 ]
