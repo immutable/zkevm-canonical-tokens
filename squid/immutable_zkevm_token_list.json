@@ -171,8 +171,17 @@
         "coingeckoId": ""
     },
     {
+        "chainId": "1",
+        "address": "0xd15afd445fee7074ca094dc6218d4be164fc4073",
+        "name": "IMR Token",
+        "symbol": "IMR",
+        "decimals": 18,
+        "logoURI": "https://ipfs.aof.global/ipfs/bafkreigdstunxinj42cwoup2gnokripinqyop6qkscfovyawvwtjlsrci4",
+        "coingeckoId": ""
+    },
+    {
         "chainId": "13371",
-        "address": "0x5838241bcabb660f999264bcda571fc59931d17e",
+        "address": "0x915d2f39e89d3fee3f0a9ca060a9dafd560ea226",
         "name": "IMR Token",
         "symbol": "IMR",
         "decimals": 18,
