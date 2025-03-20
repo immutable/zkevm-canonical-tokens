@@ -205,5 +205,32 @@
         "decimals": 18,
         "logoURI": "https://static.spacenation.online/oik/logo.png",
         "coingeckoId": "space-nation-oikos"
+    },
+    {
+        "chainId": "1",
+        "address": "0xe2616122eD554bd693335E9143C47Df187a86EF3",
+        "name": "Immortal Token",
+        "symbol": "IMT",
+        "decimals": 18,
+        "logoURI": "https://brand.immortalrising2.com/images/imt.png",
+        "coingeckoId": ""
+    },
+    {
+        "chainId": "13371",
+        "address": "0x80807723cfc04bf5dbe3186ebd8a7486e78cd8ca",
+        "name": "Immortal Token",
+        "symbol": "IMT",
+        "decimals": 18,
+        "logoURI": "https://brand.immortalrising2.com/images/imt.png",
+        "coingeckoId": ""
+    },
+    {
+        "chainId": "13371",
+        "address": "0xfB457ea0990468FaB7ee53ecb9239dC45bD5a7D8",
+        "name": "MARBLEX on Immutable zkEVM",
+        "symbol": "MBX",
+        "decimals": 18,
+        "logoURI": "https://wallet-cdn.marblex.io/img/iconRB/MBX.svg",
+        "coingeckoId": "marblex"
     }
 ]
