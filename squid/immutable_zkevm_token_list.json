@@ -232,5 +232,23 @@
         "decimals": 18,
         "logoURI": "https://wallet-cdn.marblex.io/img/iconRB/MBX.svg",
         "coingeckoId": "marblex"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x8A1e8Cf52954C8D72907774D4b2b81f38Dd1c5c4",
+        "name": "Quest Ecosystem",
+        "symbol": "QUEST",
+        "decimals": 6,
+        "logoURI": "https://cdn.ravenquest.io/assets/ravenquest_token-DudNXzGi.png",
+        "coingeckoId": ""
+    },
+    {
+        "chainId": "1",
+        "address": "0x1Fc122FE8b6Fa6b8598799baF687539b5D3B2783",
+        "name": "Quest Ecosystem",
+        "symbol": "QUEST",
+        "decimals": 6,
+        "logoURI": "https://cdn.ravenquest.io/assets/ravenquest_token-DudNXzGi.png",
+        "coingeckoId": ""
     }
 ]
