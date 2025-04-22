@@ -250,5 +250,14 @@
         "decimals": 18,
         "logoURI": "https://d3u2pnu58u70ht.cloudfront.net/Announcement/gram_icon.png",
         "coingeckoId": "gram-ecosystem"
+    },
+    {
+        "chainId": "13371",
+        "address": "0x774abacb13b4f3b68132a9995077aba9b7df8d32",
+        "name": "CANDY Token",
+        "symbol": "CANDY",
+        "decimals": 18,
+        "logoURI": "https://d3u2pnu58u70ht.cloudfront.net/Announcement/candy_icon%20(2).png",
+        "coingeckoId": ""
     }
 ]
