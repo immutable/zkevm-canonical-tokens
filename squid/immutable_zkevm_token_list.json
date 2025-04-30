@@ -259,5 +259,23 @@
         "decimals": 18,
         "logoURI": "https://d3u2pnu58u70ht.cloudfront.net/Announcement/candy_icon%20(2).png",
         "coingeckoId": ""
-    }
+    },
+    {
+        "chainId": "42161",
+        "address": "0x685A2Fc638E382662a5D06017B05db4be3c372CB",
+        "name": "Triumph",
+        "symbol": "TRIUMPH",
+        "decimals": 18,
+        "logoURI": "https://emerald-peculiar-kite-606.mypinata.cloud/ipfs/bafkreidzlpzpjrg6ln3xd66i2zspk5ecrxotqp4dvb4uoyfoedlvhxvpgi",
+        "coingeckoId": ""
+      },
+      {
+        "chainId": "13371",
+        "address": "0x6A58b83677b9F0ffe185aF056a3C30F7700441e3",
+        "name": "Triumph",
+        "symbol": "TRIUMPH",
+        "decimals": 18,
+        "logoURI": "https://emerald-peculiar-kite-606.mypinata.cloud/ipfs/bafkreidzlpzpjrg6ln3xd66i2zspk5ecrxotqp4dvb4uoyfoedlvhxvpgi",
+        "coingeckoId": ""
+      }
 ]
