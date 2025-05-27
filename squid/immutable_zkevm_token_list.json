@@ -277,5 +277,14 @@
         "decimals": 18,
         "logoURI": "https://emerald-peculiar-kite-606.mypinata.cloud/ipfs/bafkreidzlpzpjrg6ln3xd66i2zspk5ecrxotqp4dvb4uoyfoedlvhxvpgi",
         "coingeckoId": ""
+      },
+      {
+        "chainId": "13371",
+        "address": "0x0FA1d8Ffa9B414ABF0F47183e088bddC32e084F3",
+        "name": "Tokyo Games Token",
+        "symbol": "TGT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/55923/standard/tgt.jpg",
+        "coingeckoId": "tokyo-games-token"
       }
 ]
