@@ -286,5 +286,14 @@
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/55923/standard/tgt.jpg",
         "coingeckoId": "tokyo-games-token"
+      },
+      {
+        "chainId": "13371",
+        "address": "0x2BbD8602091bd1B90797d894163c0DE76045F71c",
+        "name": "END Token",
+        "symbol": "END",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/66758/standard/END_Blue_Logo.png",
+        "coingeckoId": "end"
       }
 ]
