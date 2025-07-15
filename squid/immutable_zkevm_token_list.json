@@ -303,6 +303,6 @@
         "symbol": "DANTE",
         "decimals": 18,
         "logoURI": "https://dantegames.com/icons/DanteToken.svg",
-        "coingeckoId": ""
+        "coingeckoId": "dante-games"
     }
 ]
