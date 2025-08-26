@@ -304,5 +304,23 @@
         "decimals": 18,
         "logoURI": "https://dantegames.com/icons/DanteToken.svg",
         "coingeckoId": "dante-games"
+    },
+    {
+        "chainId": "13371",
+        "address": "0xD46B5Ab42A96D873F4563925323EEF5F59b11E02",
+        "name": "Engines of Fury Token",
+        "symbol": "FURY",
+        "decimals": 18,
+        "logoURI": "https://files.eof.gg/eof_logo_black_600.png",
+        "coingeckoId": "engines-of-fury"
+    },
+    {
+        "chainId": "56",
+        "address": "0x0203D275D2A65030889aF45ed91D472be3948B92",
+        "name": "Engines of Fury Token",
+        "symbol": "FURY",
+        "decimals": 18,
+        "logoURI": "https://files.eof.gg/eof_logo_black_600.png",
+        "coingeckoId": "engines-of-fury"
     }
 ]
